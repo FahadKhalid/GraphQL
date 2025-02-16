@@ -4,6 +4,7 @@
 **A simple Android app that fetches country data using GraphQL, built with Kotlin, Jetpack Compose, and Dagger Hilt following Clean Architecture principles.**
 
 **📌 Features**
+
 * ✅ Fetches a list of countries from a GraphQL API.
 * ✅ Displays country details on selection.
 * ✅ Uses Apollo GraphQL client for efficient data fetching.
@@ -20,6 +21,7 @@ GraphQL offers several advantages over REST:**
 * ✔ Flexible Queries – Request multiple resources in a single query.
 
 📱 **App Screens**
+
 1️⃣ Country List Screen
 Displays a list of countries fetched via GraphQL.
 Click on a country to view details.
@@ -39,6 +41,7 @@ Data includes name, code, capital, population, and more.
 
 
 📡 **API Details**
+
 Countries GraphQL API:
 🔗 https://countries.trevorblades.com/graphql
 
