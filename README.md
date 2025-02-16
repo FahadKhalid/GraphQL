@@ -1,5 +1,6 @@
 
 🌍 **GraphQL Countries List App**
+
 **A simple Android app that fetches country data using GraphQL, built with Kotlin, Jetpack Compose, and Dagger Hilt following Clean Architecture principles.**
 
 **📌 Features**
