@@ -4,6 +4,7 @@ plugins {
     alias(libs.plugins.kotlin.compose)
     kotlin("kapt")
     id("com.apollographql.apollo") version "4.1.1"
+    id("dagger.hilt.android.plugin")
 }
 
 apollo {
